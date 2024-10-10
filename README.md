@@ -1,2 +1,2 @@
 # ALX Backend Python
-Repository of Backend projects in Python.
+Repository of all Backend projects done in Python.
